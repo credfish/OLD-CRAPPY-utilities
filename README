@@ -1,5 +1,7 @@
 This folder contains one off scripts. 
 
-To extract the latest data off oracle and merge data from access and oracle (for cases when the data has not yet migrated over). Once data has been extracted or merged, save the Rdata files to the data folder in your local version of fish_paste and commit the change to master/fish_paste
+1. To extract the latest data off oracle and merge data from access and oracle (for cases when the data has not yet migrated over). 
+Once data has been extracted or merged, save the Rdata files to the data folder in your local version of fish_paste and 
+commit the change to master/fish_paste
 
-To run diver vs diver comparisons from a csv file generated straight from Access while at sea.
+2. To run diver vs diver comparisons from a csv file generated straight from Access while at sea.
